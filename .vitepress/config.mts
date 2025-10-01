@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: '/MatrixLightDocs/',
+  base: '/MatrixLightDocs/',
   title: "MatrixLight Docs",
   description: "MatrixLight Docs",
   themeConfig: {
